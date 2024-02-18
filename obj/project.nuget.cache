@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "caBxQXh1BKB7uIYD/ZqjoLqgUytixTArDqhbkL6YLGndVt4VMoQ5b4Yo77UgJmrXq2CxWxG1TmElP6lmTRhmkw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rana Saha\\Desktop\\Asp.Net Projects\\todo-list\\todo-list.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rana Saha\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Rana Saha\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Rana Saha\\.nuget\\packages\\npgsql\\8.0.2\\npgsql.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
