@@ -21,6 +21,11 @@ namespace Todo.FrontEndRoute
                 name: "register",
                 pattern: "register",
                 defaults: new { controller = "AuthManage", action = "Register" });
+            
+            endpoints.MapControllerRoute(
+                name: "register-action",
+                pattern: "register-action",
+                defaults: new { controller = "AuthManage", action = "RegisterAction" });
         }
     }
 }

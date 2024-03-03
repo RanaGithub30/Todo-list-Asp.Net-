@@ -1,0 +1,2 @@
+dotnet ef dbcontext scaffold "Host=localhost;Port=5432;Database=todo;Username=postgres;Password=root;" Npgsql.EntityFrameworkCore.PostgreSQL  -o Models --context TodoDbContext --context-dir Data --force --no-build
+cd..
